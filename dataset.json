@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 40% of their local market for proven foot traffic and review volume within the last 90 days and a state-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 40% Active Restaurant Review Whales in Rhode Island, US",
+  "export_job_id": "2ddb18dd-6b9c-4139-b5cd-0da9a1d6b02b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 741979,
+  "location_name": "Rhode Island",
+  "location_type": "state",
+  "repo_name": "top-40-active-restaurant-review-whales-in-rhode-island-us-sample-741979",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/741979/beamstation_741979_restaurants-us-ri_SAMPLE_DIST.csv",
+  "sample_pct": 1.19,
+  "sample_records": 10,
+  "sample_sha256": "0e54b87f56dba2d866fef61786cfabd1a5b9a5caa347979223067a5ce5ebf011",
+  "sample_size_bytes": 57317,
+  "total_records": 837,
+  "updated_at": "2026-04-01T01:12:26.152002+00:00"
+}
