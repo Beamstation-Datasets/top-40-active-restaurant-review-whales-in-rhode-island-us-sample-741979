@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2ddb18dd-6b9c-4139-b5cd-0da9a1d6b02b",
+  "export_job_id": "5509f6d9-5cf6-49de-8dc2-ea80495c403b",
   "id_short": 741979,
-  "published_at": "2026-04-14T19:16:44Z",
+  "published_at": "2026-04-18T19:49:40Z",
   "repo_name": "top-40-active-restaurant-review-whales-in-rhode-island-us-sample-741979",
   "sample_asset_name": "beamstation_741979_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/741979/beamstation_741979_restaurants-us-ri_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "0e54b87f56dba2d866fef61786cfabd1a5b9a5caa347979223067a5ce5ebf011",
-  "sample_size_bytes": 57317,
-  "total_records": 837
+  "sample_records": 105,
+  "sample_sha256": "1694a1583978b83f681ce174d6fb16a4a52f3debd0ad90998d026fe338acb311",
+  "sample_size_bytes": 422740,
+  "total_records": 1059
 }
