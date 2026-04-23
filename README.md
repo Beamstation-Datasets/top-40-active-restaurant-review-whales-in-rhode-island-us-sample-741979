@@ -1,6 +1,6 @@
 # Top 40% Active Restaurant Review Whales in Rhode Island, US
 
-> Free BeamStation sample export with 105 rows and masked direct-contact fields.
+> Free BeamStation sample export with 83 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `741979` |
 | Location | Rhode Island |
 | Category | Restaurants |
-| Full dataset size | 1,059 records |
-| Free sample size | 105 records (9.92%) |
-| Last export | 2026-04-15T03:18:51.521761+00:00 |
+| Full dataset size | 839 records |
+| Free sample size | 83 records (9.89%) |
+| Last export | 2026-04-22T08:30:44.560931+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-40-active-restaurant-review-whales-in-rhode-island-us-sample-741979/releases/download/sample-latest/beamstation_741979_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
